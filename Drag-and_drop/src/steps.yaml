@@ -1,0 +1,3 @@
+#steps to make drag & drop possible
+
+1. add dragabble={true} to those elements that you want to make dragabble
