@@ -1,0 +1,29 @@
+.container {
+  position: relative;
+  overflow: hidden;
+}
+
+img {
+  height: 90vh;
+  width: 100%;
+}
+
+.left-btn,
+.right-btn {
+  position: absolute;
+  background-color: black;
+  color: white;
+  font-size: 40px;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.left-btn {
+  left: 1rem;
+  top: 50%;
+}
+
+.right-btn {
+  right: 1rem;
+  top: 50%;
+}
