@@ -1,12 +1,19 @@
 const express = require("express");
+const { dbConnect } = require("./config/Database");
+require("dotenv").config();
+const userRoutes = require("./routes/User");
 
 const app = express();
 app.use(express.json());
 
-app.get("/", (req, res) => {
-  return res.json("Hii");
-});
+//connect database
+dbConnect();
 
-app.listen(8000, () => {
-  console.log("Server running on port 8000");
+//routes
+app.use("/api/v1", userRoutes);
+
+const PORT = process.env.PORT;
+
+app.listen(PORT, () => {
+  console.log("Server running on port " + PORT);
 });

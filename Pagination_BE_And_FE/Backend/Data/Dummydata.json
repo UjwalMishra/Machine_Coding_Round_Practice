@@ -1,0 +1,302 @@
+[
+  {
+    "firstName": "Aarav",
+    "lastName": "Patel",
+    "email": "aarav.patel@example.com",
+    "userName": "aarav_patel"
+  },
+  {
+    "firstName": "Vihaan",
+    "lastName": "Sharma",
+    "email": "vihaan.sharma@example.com",
+    "userName": "vihaan_sharma"
+  },
+  {
+    "firstName": "Aditya",
+    "lastName": "Mehta",
+    "email": "aditya.mehta@example.com",
+    "userName": "aditya_mehta"
+  },
+  {
+    "firstName": "Vivaan",
+    "lastName": "Reddy",
+    "email": "vivaan.reddy@example.com",
+    "userName": "vivaan_reddy"
+  },
+  {
+    "firstName": "Arjun",
+    "lastName": "Nair",
+    "email": "arjun.nair@example.com",
+    "userName": "arjun_nair"
+  },
+  {
+    "firstName": "Sai",
+    "lastName": "Verma",
+    "email": "sai.verma@example.com",
+    "userName": "sai_verma"
+  },
+  {
+    "firstName": "Krishna",
+    "lastName": "Singh",
+    "email": "krishna.singh@example.com",
+    "userName": "krishna_singh"
+  },
+  {
+    "firstName": "Ishaan",
+    "lastName": "Gupta",
+    "email": "ishaan.gupta@example.com",
+    "userName": "ishaan_gupta"
+  },
+  {
+    "firstName": "Reyansh",
+    "lastName": "Kumar",
+    "email": "reyansh.kumar@example.com",
+    "userName": "reyansh_kumar"
+  },
+  {
+    "firstName": "Shaurya",
+    "lastName": "Joshi",
+    "email": "shaurya.joshi@example.com",
+    "userName": "shaurya_joshi"
+  },
+  {
+    "firstName": "Kabir",
+    "lastName": "Rao",
+    "email": "kabir.rao@example.com",
+    "userName": "kabir_rao"
+  },
+  {
+    "firstName": "Aryan",
+    "lastName": "Chopra",
+    "email": "aryan.chopra@example.com",
+    "userName": "aryan_chopra"
+  },
+  {
+    "firstName": "Rudra",
+    "lastName": "Bansal",
+    "email": "rudra.bansal@example.com",
+    "userName": "rudra_bansal"
+  },
+  {
+    "firstName": "Anay",
+    "lastName": "Jain",
+    "email": "anay.jain@example.com",
+    "userName": "anay_jain"
+  },
+  {
+    "firstName": "Atharv",
+    "lastName": "Deshmukh",
+    "email": "atharv.deshmukh@example.com",
+    "userName": "atharv_deshmukh"
+  },
+  {
+    "firstName": "Dhruv",
+    "lastName": "Ghosh",
+    "email": "dhruv.ghosh@example.com",
+    "userName": "dhruv_ghosh"
+  },
+  {
+    "firstName": "Ayaan",
+    "lastName": "Malhotra",
+    "email": "ayaan.malhotra@example.com",
+    "userName": "ayaan_malhotra"
+  },
+  {
+    "firstName": "Om",
+    "lastName": "Bhat",
+    "email": "om.bhat@example.com",
+    "userName": "om_bhat"
+  },
+  {
+    "firstName": "Rohan",
+    "lastName": "Kapoor",
+    "email": "rohan.kapoor@example.com",
+    "userName": "rohan_kapoor"
+  },
+  {
+    "firstName": "Tanish",
+    "lastName": "Khanna",
+    "email": "tanish.khanna@example.com",
+    "userName": "tanish_khanna"
+  },
+  {
+    "firstName": "Yuvan",
+    "lastName": "Pillai",
+    "email": "yuvan.pillai@example.com",
+    "userName": "yuvan_pillai"
+  },
+  {
+    "firstName": "Manav",
+    "lastName": "Das",
+    "email": "manav.das@example.com",
+    "userName": "manav_das"
+  },
+  {
+    "firstName": "Parth",
+    "lastName": "Iyer",
+    "email": "parth.iyer@example.com",
+    "userName": "parth_iyer"
+  },
+  {
+    "firstName": "Dev",
+    "lastName": "Mishra",
+    "email": "dev.mishra@example.com",
+    "userName": "dev_mishra"
+  },
+  {
+    "firstName": "Aarush",
+    "lastName": "Bhattacharya",
+    "email": "aarush.bhattacharya@example.com",
+    "userName": "aarush_bhattacharya"
+  },
+  {
+    "firstName": "Viha",
+    "lastName": "Patil",
+    "email": "viha.patil@example.com",
+    "userName": "viha_patil"
+  },
+  {
+    "firstName": "Ira",
+    "lastName": "Reddy",
+    "email": "ira.reddy@example.com",
+    "userName": "ira_reddy"
+  },
+  {
+    "firstName": "Anaya",
+    "lastName": "Gupta",
+    "email": "anaya.gupta@example.com",
+    "userName": "anaya_gupta"
+  },
+  {
+    "firstName": "Myra",
+    "lastName": "Sharma",
+    "email": "myra.sharma@example.com",
+    "userName": "myra_sharma"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Verma",
+    "email": "sara.verma@example.com",
+    "userName": "sara_verma"
+  },
+  {
+    "firstName": "Diya",
+    "lastName": "Singh",
+    "email": "diya.singh@example.com",
+    "userName": "diya_singh"
+  },
+  {
+    "firstName": "Aadhya",
+    "lastName": "Rao",
+    "email": "aadhya.rao@example.com",
+    "userName": "aadhya_rao"
+  },
+  {
+    "firstName": "Kiara",
+    "lastName": "Chopra",
+    "email": "kiara.chopra@example.com",
+    "userName": "kiara_chopra"
+  },
+  {
+    "firstName": "Anika",
+    "lastName": "Jain",
+    "email": "anika.jain@example.com",
+    "userName": "anika_jain"
+  },
+  {
+    "firstName": "Navya",
+    "lastName": "Kapoor",
+    "email": "navya.kapoor@example.com",
+    "userName": "navya_kapoor"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Bansal",
+    "email": "eva.bansal@example.com",
+    "userName": "eva_bansal"
+  },
+  {
+    "firstName": "Meera",
+    "lastName": "Nair",
+    "email": "meera.nair@example.com",
+    "userName": "meera_nair"
+  },
+  {
+    "firstName": "Prisha",
+    "lastName": "Iyer",
+    "email": "prisha.iyer@example.com",
+    "userName": "prisha_iyer"
+  },
+  {
+    "firstName": "Aarohi",
+    "lastName": "Deshmukh",
+    "email": "aarohi.deshmukh@example.com",
+    "userName": "aarohi_deshmukh"
+  },
+  {
+    "firstName": "Saanvi",
+    "lastName": "Khanna",
+    "email": "saanvi.khanna@example.com",
+    "userName": "saanvi_khanna"
+  },
+  {
+    "firstName": "Riya",
+    "lastName": "Malhotra",
+    "email": "riya.malhotra@example.com",
+    "userName": "riya_malhotra"
+  },
+  {
+    "firstName": "Zara",
+    "lastName": "Ghosh",
+    "email": "zara.ghosh@example.com",
+    "userName": "zara_ghosh"
+  },
+  {
+    "firstName": "Naira",
+    "lastName": "Das",
+    "email": "naira.das@example.com",
+    "userName": "naira_das"
+  },
+  {
+    "firstName": "Tara",
+    "lastName": "Bhattacharya",
+    "email": "tara.bhattacharya@example.com",
+    "userName": "tara_bhattacharya"
+  },
+  {
+    "firstName": "Ahana",
+    "lastName": "Mishra",
+    "email": "ahana.mishra@example.com",
+    "userName": "ahana_mishra"
+  },
+  {
+    "firstName": "Aanya",
+    "lastName": "Patil",
+    "email": "aanya.patil@example.com",
+    "userName": "aanya_patil"
+  },
+  {
+    "firstName": "Trisha",
+    "lastName": "Pillai",
+    "email": "trisha.pillai@example.com",
+    "userName": "trisha_pillai"
+  },
+  {
+    "firstName": "Isha",
+    "lastName": "Verma",
+    "email": "isha.verma@example.com",
+    "userName": "isha_verma"
+  },
+  {
+    "firstName": "Avni",
+    "lastName": "Singh",
+    "email": "avni.singh@example.com",
+    "userName": "avni_singh"
+  },
+  {
+    "firstName": "Charvi",
+    "lastName": "Reddy",
+    "email": "charvi.reddy@example.com",
+    "userName": "charvi_reddy"
+  }
+]
